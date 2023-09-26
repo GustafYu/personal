@@ -9,6 +9,8 @@ HOST-SUFFIX, nsclick.baidu.com, REJECT
 HOST-SUFFIX, www.qchannel01.cn, REJECT
 HOST-SUFFIX, afd.baidu.com, REJECT
 HOST-SUFFIX, als.baidu.com, REJECT
+
 host-suffix, app-measurement.com, reject
 host-suffix, sdk.iad-01.braze.com, reject
 host-suffix, api-access.pangolin-sdk-toutiao.com, reject
+host-suffix, open.e.kuaishou.com, reject
