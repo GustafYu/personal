@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX, E.KUAISHOU.COM, REJECT
+DOMAIN-SUFFIX, TAGTIC.CN, REJECT
+DOMAIN-SUFFIX, UMENG.COM, REJECT
+DOMAIN-SUFFIX, UMENGCLOUD.COM, REJECT
+DOMAIN-SUFFIX, PANGOLIN-SDK-TOUTIAO.COM, REJECT
+DOMAIN-SUFFIX, pixon.ads-pixiv.net, REJECT
+DOMAIN-SUFFIX, aaid.uyunad.com, REJECT
+DOMAIN-SUFFIX, nsclick.baidu.com, REJECT
+DOMAIN-SUFFIX, www.qchannel01.cn, REJECT
+DOMAIN-SUFFIX, afd.baidu.com, REJECT
+DOMAIN-SUFFIX, als.baidu.com, REJECT
+
+DOMAIN-suffix, app-measurement.com, reject
+DOMAIN-suffix, sdk.iad-01.braze.com, reject
+DOMAIN-suffix, api-access.pangolin-sdk-toutiao.com, reject
+DOMAIN-suffix, open.e.kuaishou.com, reject
+DOMAIN-suffix, c.amazon-adsystem.com, reject
